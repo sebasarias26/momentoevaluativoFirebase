@@ -1,0 +1,3 @@
+co.com.myapp.cesde.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

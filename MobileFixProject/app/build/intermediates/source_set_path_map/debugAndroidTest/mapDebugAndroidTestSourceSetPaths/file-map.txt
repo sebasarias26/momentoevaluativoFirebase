@@ -1,0 +1,5 @@
+co.com.myapp.cesde.test.app-core-1.6.1-0 C:\Users\sebas\.gradle\caches\transforms-4\472caf5cc4f7ac598a2d862ae8b0dac7\transformed\core-1.6.1\res
+co.com.myapp.cesde.test.app-androidTest-1 C:\Users\sebas\Documents\firebase\fireBaseDone\MobileFixProject\app\build\generated\res\resValues\androidTest\debug
+co.com.myapp.cesde.test.app-mergeDebugAndroidTestResources-2 C:\Users\sebas\Documents\firebase\fireBaseDone\MobileFixProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+co.com.myapp.cesde.test.app-mergeDebugAndroidTestResources-3 C:\Users\sebas\Documents\firebase\fireBaseDone\MobileFixProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+co.com.myapp.cesde.test.app-debugAndroidTest-4 C:\Users\sebas\Documents\firebase\fireBaseDone\MobileFixProject\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

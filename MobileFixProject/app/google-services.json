@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "14337888878",
+    "firebase_url": "https://libraryapp-81498-default-rtdb.firebaseio.com",
+    "project_id": "libraryapp-81498",
+    "storage_bucket": "libraryapp-81498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14337888878:android:5b4a338c9d79c821454c7f",
+        "android_client_info": {
+          "package_name": "co.com.myapp.cesde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiSGyrHoOiploktGfSm4pU9KpEvMSqINA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
